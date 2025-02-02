@@ -2,6 +2,14 @@
 
 To get started with **Cortexium**, follow these steps:
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/Cortexium/Cortexium.git
+# Step 1: Clone the repository
+git clone https://github.com/Cortexium/Cortexium.git
+
+# Step 2: Navigate to the project directory
+cd Cortexium
+
+# Step 3: Install the required dependencies
+pip install -r requirements.txt
+
+# Step 4: Start the AI engine
+python cortexium.py
