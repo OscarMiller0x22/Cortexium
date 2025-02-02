@@ -9,12 +9,12 @@
 
 ## Changelog
 
-### [1.0.0] - 2025-02-01
+### [1.0.0] - 2025-01-17
 - Initial release with core AI model and basic API integration.
 
-### [1.1.0] - 2025-03-01
+### [1.1.0] - 2025-01-24
 - Added enhanced training features.
 - Improved AI decision-making algorithms.
 
-### [1.2.0] - 2025-04-01
+### [1.2.0] - 2025-02-01
 - Introduced real-time data processing for faster predictions.
